@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "dish": "Wheat Dosa",
+      "instructions": "Step 1\nCombine flour, 2 tablespoons oil, salt, and baking soda together in a bowl. Mix for 1 to 2 minutes. Add 1 3/4 cup water and mix until it's lump free, the chunks of flour have dissolved, and the batter has a good consistency, adding more water if needed.\n\nStep 2\nHeat 1 tablespoon oil on a griddle over medium heat. Pour some of the batter onto the griddle; spread the batter in a circular motion, slowly yet steadily. Cook until the edges start to brown, 2 to 3 minutes. Remove from the grill. Repeat with remaining batter, adding more oil between each batch.",
+      "made": false,
+      "ingredients": "1 cup whole wheat flour \n2 tablespoons vegetable oil\n1 pinch salt\n1 pinch of baking soda\n1 ¾ cups water, or more as needed\n¼ cup vegetable oil",
+      "id": 3
+    },
+    {
+      "dish": "Lamb and Fig Tagine",
+      "instructions": "In the bottom of a pressure cooker, add olive oil. Rinse pieces of lamb and remove any excess fat. Add the lamb to pressure cooker and heat uncovered until it begins to brown.\nAdd garlic, ginger, salt, pepper, saffron, and cilantro. Mix well.\nCover the meat with enough water so that it's almost completely submerged.\nClose the pressure cooker and heat on low to medium heat for 45 minutes.\nWhile the meat is cooking boil the almonds in water for 5 minutes so that the skins become loose and can be removed.\nDrain the almonds and set aside.\nIn a pot, add the figs and cinnamon and just enough water to cover the figs. Turn the heat to medium and allow to simmer.\nWhile you're waiting for the figs and meat, prepare the almonds. Squeeze the almond between your thumb and forefinger to remove the skins.\nLay the almonds flat on a baking tray, and slide into a low over for 10-15 minutes. You do not want to cook the almonds, just to remove the excess liquid - this will help them fry better.\nAfter the meat has cooked for 45 minutes, release the pressure and check it. The lamb should be tender and falling apart. You should also have a thicker liquid remaining in the pot.\nIf you have a lot of liquid keep the pan on the heat and cook it down. Scoop 3-4 Tbsp of liquid into the pot with the figs.\nThe figs are ready when they are soft and can easily be torn apart. Once they are at this point, stir in 1 Tbsp of honey and adjust the liquid, adding more cinnamon if it's overly sweet.\nIn a frying pan add a thin layer of vegetable oil and slowly fry the almonds until they just turn brown.\nRemove using a slotted spoon and drain any excess oil. Toss lightly with a little bit of salt.\nTo arrange the tajine, place the meat in a large serving dish (like a tajine bottom) along with the liquid. Place the figs on top and drizzle the liquid from the figs all over the dish. Lastly, sprinkle the almonds on top.\nEat by scooping up with crusty bread.",
+      "made": false,
+      "ingredients": "2 lbs lamb pieces\n3 cloves crushed garlic (as fine as possible)\n1 1/2 tsp grated, fresh ginger\n1/2 tsp salt\n1/4 tsp white pepper\npinch of saffron threads, crushed\n1/2 tsp cinnamon\n2 tsp olive oil\nsmall handful of cilantro\n10-12 Turkish dried figs\n1 Tbsp honey\n1 tsp cinnamon\n1 cup almonds\nvegetable oil for frying",
+      "id": 4
+    }
+  ]
+}
